@@ -1,3 +1,5 @@
-# flappy-bird
+# Flappy Bird
 
-A basic implementation of Flappy Bird JavaScript. 
+An implementation of classic Flappy Bird in JavaScript. 
+
+<img src='./flappy.PNG'>
